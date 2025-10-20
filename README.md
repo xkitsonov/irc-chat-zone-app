@@ -24,14 +24,14 @@ Each page is connected through router navigation, creating a fully clickable SPA
 
 ##  Project Structure
 src/
-├── pages/
+├── assets/ # Logos and images
+├── pages/ # Application pages
 │ ├── LoginPage.vue
 │ ├── RegisterPage.vue
 │ ├── ChannelListPage.vue
 │ └── ChatPage.vue
-├── assets/ (logo and images)
-├── router/ (routes configuration)
-└── App.vue
+├── router/ # Route configuration
+└── App.vue # Main component
 
 🖼️ Screenshots (UI Preview)
 
