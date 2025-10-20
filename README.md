@@ -39,7 +39,7 @@ src/
 Login_Page_photo.jpg  
 Register_Page_photo.jpg  
 ### 🔹 Channels PageChannels_Pages_photo.jpg  
-
+Channels_Pages_photo.jpg  
 ### 🔹 Chat Pages
 chat_photo0.jpg  
 chat_photo1.jpg  
